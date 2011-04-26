@@ -1,0 +1,47 @@
+	<div id="footer-content">
+	
+		<div class="grid_8 cushycms" title="links">
+	    
+	    <!--           <h3>Dental Professionals</h3>           
+	               <p>
+	               Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. 
+	               Cras id urna. Morbi tincidunt, orci ac convallis aliquam, lectus turpis varius lorem, eu 
+	               posuere nunc justo tempus leo. Donec mattis, purus nec placerat bibendum, dui pede condimentum 
+	               odio, ac blandit ante orci ut diam. <a href="index.html">Read more...</a>
+	               </p>
+	            -->
+		</div>
+		
+		<div class="grid_8 cushycms" title="About">							
+		
+			<h3>Contact</h3>			
+			<p>
+			Shop 2 "John St Square" 45-55 Harris Street, Pyrmont NSW 2009<br>
+			Phone: 9518 7832 <span class="meta">or</span> 8004 2651<br>
+			</p>		
+		</div>	
+	
+	</div>
+
+	<div id="footer-bottom" class="cushycms">
+
+		<p class="bottom-left">			
+		&nbsp; &copy;2008 DentArtisans &nbsp; &nbsp;
+		Design by : <a href="http://www.styleshout.com/">styleshout</a>												
+		</p>	
+	    
+	<!--       <p class="bottom-right" >
+	           <a href="index.html">Home</a> |
+	           <a href="index.html">RSS Feed</a>                           
+	       </p> -->
+	
+	</div>				
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-7298343-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>	
